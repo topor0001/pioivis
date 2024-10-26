@@ -65,3 +65,7 @@
 <b>21. в каком случае могут появиться конфликты? сделать конфликт</b><br>
 <p>Конфликты в Git возникают, когда изменения, внесённые в одну и ту же часть кода или файла разными участниками (или ветками), не могут быть автоматически объединены. Такое может случиться в следующих случаях: изменения в одной и той же строке файла, одновременное удаление и изменение, переименование/перемещение файлов.</p>
 <a href="https://ibb.co/rMRKtRB"><img src="https://i.ibb.co/q93Ln3H/21.png" alt="21" border="0"></a><br>
+<b>22. как посмотреть в каких файлах конфликты</b><br>
+<a href="https://ibb.co/QCyYkMx"><img src="https://i.ibb.co/MGFPf7J/22.png" alt="22" border="0"></a>
+<a href="https://ibb.co/qJxMfJm"><img src="https://i.ibb.co/0sQjSsY/22-1.png" alt="22-1" border="0"></a>
+<a href="https://ibb.co/ZYbYbKf"><img src="https://i.ibb.co/dLHLH6f/22-2.png" alt="22-2" border="0"></a>
