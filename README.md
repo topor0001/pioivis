@@ -68,9 +68,23 @@
 <b>22. как посмотреть в каких файлах конфликты</b><br>
 <a href="https://ibb.co/QCyYkMx"><img src="https://i.ibb.co/MGFPf7J/22.png" alt="22" border="0"></a>
 <a href="https://ibb.co/qJxMfJm"><img src="https://i.ibb.co/0sQjSsY/22-1.png" alt="22-1" border="0"></a>
-<a href="https://ibb.co/ZYbYbKf"><img src="https://i.ibb.co/dLHLH6f/22-2.png" alt="22-2" border="0"></a>
+<a href="https://ibb.co/ZYbYbKf"><img src="https://i.ibb.co/dLHLH6f/22-2.png" alt="22-2" border="0"></a><br>
 <b>23. как устранить конфликты</b><br>
 <a href="https://ibb.co/Ch0hyST"><img src="https://i.ibb.co/6gsgSqf/23.png" alt="23" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'></a>
 <a href="https://ibb.co/FVdCStP"><img src="https://i.ibb.co/xHrdpQ4/23-1.png" alt="23-1" border="0"></a>
-<a href="https://ibb.co/5cHGxnN"><img src="https://i.ibb.co/2K4WYsD/23-2.png" alt="23-2" border="0"></a>
+<a href="https://ibb.co/5cHGxnN"><img src="https://i.ibb.co/2K4WYsD/23-2.png" alt="23-2" border="0"></a><br>
 <b>24. как переключиться на указанный коммит</b><br>
+<a href="https://ibb.co/YPcLmTh"><img src="https://i.ibb.co/17rm1JT/24.png" alt="24" border="0"></a><br>
+<b>25. сделать ребазирование(rebase) текущей ветки</b><br>
+<a href="https://ibb.co/KDJwZg7"><img src="https://i.ibb.co/pQSyDTZ/25.png" alt="25" border="0"></a><br>
+<b>26. устранение конфликтов во время ребазирования</b><br>
+<a href="https://ibb.co/5nD0cNL"><img src="https://i.ibb.co/vQ5Fz7k/26.png" alt="26" border="0"></a>
+<a href="https://ibb.co/KybygV2"><img src="https://i.ibb.co/LpYpy9x/26-1.png" alt="26-1" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'></a>
+<a href="https://ibb.co/f4FPH25"><img src="https://i.ibb.co/jgf1DT2/26-2.png" alt="26-2" border="0"></a>
+<a href="https://ibb.co/DtXRjHt"><img src="https://i.ibb.co/wRHz2FR/26-3.png" alt="26-3" border="0"></a>
+<a href="https://ibb.co/TBJwqpK"><img src="https://i.ibb.co/0j1nV8B/26-4.png" alt="26-4" border="0"></a><br>
+<b>27. отменить ребазирование во время конфликтов</b><br>
+<a href="https://ibb.co/ggvgWLJ"><img src="https://i.ibb.co/mzvzyV4/27.png" alt="27" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>поиск по картинке загрузить изображение</a><br />
+<b>28. пропустить текущий конфликтный коммит и перейти к следующему</b><br>
+<a href="https://ibb.co/Rczp47h"><img src="https://i.ibb.co/bXzgR7H/28.png" alt="28" border="0"></a><br>
+<b>29. отправить изменения из локального репозитория для указанной ветки в удалённый(дистанционный) репозиторий</b><br>
