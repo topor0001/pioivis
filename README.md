@@ -24,3 +24,4 @@
 <a href="https://ibb.co/zfx3nLH"><img src="https://i.ibb.co/ry0B7Lf/1.png" alt="1" border="0"></a><br>
 <b>2.	посмотреть статус текущего репозитория</b><br>
 <a href="https://ibb.co/JcWzY9y"><img src="https://i.ibb.co/0npf0xF/2.png" alt="2" border="0"></a>
+<b>3. что такое ветка и какая ветка является обычно основной:</b>
