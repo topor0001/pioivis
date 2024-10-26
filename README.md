@@ -69,3 +69,8 @@
 <a href="https://ibb.co/QCyYkMx"><img src="https://i.ibb.co/MGFPf7J/22.png" alt="22" border="0"></a>
 <a href="https://ibb.co/qJxMfJm"><img src="https://i.ibb.co/0sQjSsY/22-1.png" alt="22-1" border="0"></a>
 <a href="https://ibb.co/ZYbYbKf"><img src="https://i.ibb.co/dLHLH6f/22-2.png" alt="22-2" border="0"></a>
+<b>23. как устранить конфликты</b><br>
+<a href="https://ibb.co/Ch0hyST"><img src="https://i.ibb.co/6gsgSqf/23.png" alt="23" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'></a>
+<a href="https://ibb.co/FVdCStP"><img src="https://i.ibb.co/xHrdpQ4/23-1.png" alt="23-1" border="0"></a>
+<a href="https://ibb.co/5cHGxnN"><img src="https://i.ibb.co/2K4WYsD/23-2.png" alt="23-2" border="0"></a>
+<b>24. как переключиться на указанный коммит</b><br>
