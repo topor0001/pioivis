@@ -56,3 +56,7 @@
 <a href="https://ibb.co/r7MNDSS"><img src="https://i.ibb.co/WxFjmww/16.png" alt="16" border="0"></a><br>
 <b>17. переключиться на другую ветку</b><br>
 <a href="https://ibb.co/NC92kM8"><img src="https://i.ibb.co/r0x2LVC/17.png" alt="17" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'></a><br />
+<b>18. создать новую ветку и сразу же переключиться на неё</b><br>
+<a href="https://ibb.co/QHNdFV4"><img src="https://i.ibb.co/2MtN7rT/188.png" alt="188" border="0"></a><br>
+<b>19. удалить ветку/удалить ветку, даже если она не примержена</b><br>
+<a href="https://ibb.co/Sf8GRtk"><img src="https://i.ibb.co/QDRtrPW/image.png" alt="image" border="0"></a><br>
