@@ -10,10 +10,4 @@
 <p align="center">Отчет по</p>
 <p align="center">Лабораторной работе №</p>
 <p align="center">Системы контроля версий</p>
-<p style="text-align: right;">Подготовили:</p>
-<p style="text-align: right;">
-  Этот текст выровнен по правому краю.
-</p>
-<div align="right">
-  Этот текст выровнен по правому краю.
-</div>
+<div align="right">Подготовили:</div>
