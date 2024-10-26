@@ -7,6 +7,7 @@
 <p align="center">
 Кафедра ИИТ
 </p>
+<br><br><br><br><br><br><br><br><br>
 <p align="center">Отчет по</p>
 <p align="center">Лабораторной работе №</p>
 <p align="center">Системы контроля версий</p>
