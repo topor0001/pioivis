@@ -21,5 +21,5 @@
 <p align="center">Минск 2024</p>
 <b>Цель работы:</b><p> познакомиться с программами git, освоить их программные аргументы.</p>
 <b>1.	создать локальный репозиторий в текущей папке</b>
-
+<a href="https://ibb.co/zfx3nLH"><img src="https://i.ibb.co/ry0B7Lf/1.png" alt="1" border="0"></a>
 ![image.png](https://ibb.co/zfx3nLH)
