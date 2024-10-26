@@ -27,6 +27,6 @@
 <b>3. что такое ветка и какая ветка является обычно основной:</b>
 <p>Ветка в Git - это независимая линия разработки. Обычно основной веткой является master или main.</p>
 <b>4.добавить файл в контекст, который будет коммититься </b>
-<a href="https://ibb.co/mcSfdP4"><img src="https://i.ibb.co/LZvVBs1/4.png" alt="4" border="0"></a>
+<a href="https://ibb.co/mcSfdP4"><img src="https://i.ibb.co/LZvVBs1/4.png" alt="4" border="0"></a><br>
 <b>5. создать коммит на основе текущего контекста и указать для него комментарий </b>
 <a href="https://ibb.co/xYJ17cf"><img src="https://i.ibb.co/LrnxZqJ/5.png" alt="5" border="0"></a>
