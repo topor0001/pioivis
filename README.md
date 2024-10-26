@@ -48,3 +48,11 @@
 <b>13. изменить глобальные/локальные настройки</b><br>
 <a href="https://ibb.co/XFYGG5N"><img src="https://i.ibb.co/GCHrrMB/13.png" alt="13" border="0"></a><br>
 <a href="https://ibb.co/Rc0fV45"><img src="https://i.ibb.co/Hqz6kpJ/13-1.png" alt="13-1" border="0"></a><br>
+<b>14. переписать имя пользователя</b><br>
+<a href="https://ibb.co/379bVyn"><img src="https://i.ibb.co/6m7SGRk/14.png" alt="14" border="0"></a><br>
+<b>15. просмотреть существующие ветки</b><br>
+<a href="https://ibb.co/G2HJvyW"><img src="https://i.ibb.co/ncP0s97/15.png" alt="15" border="0"></a><br>
+<b>16. создать новую ветку</b><br>
+<a href="https://ibb.co/r7MNDSS"><img src="https://i.ibb.co/WxFjmww/16.png" alt="16" border="0"></a><br>
+<b>17. переключиться на другую ветку</b><br>
+<a href="https://ibb.co/NC92kM8"><img src="https://i.ibb.co/r0x2LVC/17.png" alt="17" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'></a><br />
