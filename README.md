@@ -39,3 +39,9 @@
 <a href="https://ibb.co/82pWJQB"><img src="https://i.ibb.co/bLZSxG3/8.png" alt="8" border="0"></a><br>
 <b>9. убрать файл из контекста</b><br>
 <a href="https://ibb.co/YhhMvhc"><img src="https://i.ibb.co/bXXZpXs/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'></a><br />
+<b>10. посмотреть изменения в файле по сравнению с последним коммитом</b><br>
+<a href="https://ibb.co/7ypwfXm"><img src="https://i.ibb.co/yskw9Xj/10.png" alt="10" border="0"></a><br>
+<b>11. убрать изменения относительно последнего коммита из файла</b><br>
+<a href="https://ibb.co/CMH1yr6"><img src="https://i.ibb.co/VQqjGKx/11.png" alt="11" border="0"></a><br>
+<b>12. добавить в контекст коммита все измененные и созданный файлы</b><br>
+<a href="https://ibb.co/3N5JmKG"><img src="https://i.ibb.co/BZH12kd/12.png" alt="12" border="0"></a><br>
