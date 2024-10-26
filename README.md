@@ -45,3 +45,6 @@
 <a href="https://ibb.co/CMH1yr6"><img src="https://i.ibb.co/VQqjGKx/11.png" alt="11" border="0"></a><br>
 <b>12. добавить в контекст коммита все измененные и созданный файлы</b><br>
 <a href="https://ibb.co/3N5JmKG"><img src="https://i.ibb.co/BZH12kd/12.png" alt="12" border="0"></a><br>
+<b>13. изменить глобальные/локальные настройки</b><br>
+<a href="https://ibb.co/XFYGG5N"><img src="https://i.ibb.co/GCHrrMB/13.png" alt="13" border="0"></a><br>
+<a href="https://ibb.co/Rc0fV45"><img src="https://i.ibb.co/Hqz6kpJ/13-1.png" alt="13-1" border="0"></a><br>
