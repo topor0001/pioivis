@@ -30,5 +30,5 @@
 <a href="https://ibb.co/mcSfdP4"><img src="https://i.ibb.co/LZvVBs1/4.png" alt="4" border="0"></a><br>
 <b>5. создать коммит на основе текущего контекста и указать для него комментарий </b>
 <a href="https://ibb.co/xYJ17cf"><img src="https://i.ibb.co/LrnxZqJ/5.png" alt="5" border="0"></a>
-<b>6. создать коммит, включающий изменения всех наблюдаемых файлов и указать для него комментарий</b>
-<a href="https://ibb.co/cybLSY4"><img src="https://i.ibb.co/CwJ23PR/6.png" alt="6" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'></a>
+<b>6. создать коммит, включающий изменения всех наблюдаемых файлов и указать для него комментарий</b><br>
+<a href="https://ibb.co/cybLSY4"><img src="https://i.ibb.co/CwJ23PR/6.png" alt="6" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'></a><br>
