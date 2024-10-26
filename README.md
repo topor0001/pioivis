@@ -92,3 +92,13 @@
 <b>30. забрать изменения из репозитория, для которого были созданы удалённые ветки по умолчанию</b><br>
 <a href="https://ibb.co/RgXKZD5"><img src="https://i.ibb.co/hgGNhmq/30.png" alt="30" border="0"></a><br>
 <b>31. забрать изменения удалённой ветки из репозитория по умолчанию, основной ветки</b><br>
+<a href="https://ibb.co/7bpqND0"><img src="https://i.ibb.co/wYQfrq2/31.png" alt="31" border="0"></a><br>
+<b>32. создание копии репозитория</b><br>
+<a href="https://ibb.co/BnH1FQB"><img src="https://i.ibb.co/g4bnhfJ/32.png" alt="32" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'></a><br />
+<b>33. переименовать последний коммит</b><br>
+<a href="https://ibb.co/FBKvwdp"><img src="https://i.ibb.co/jLTKMjt/33.png" alt="33" border="0"></a><br>
+<b>34. переименовать не последний коммит</b><br>
+<a href="https://ibb.co/m0DwBJF"><img src="https://i.ibb.co/f915SMG/34.png" alt="34" border="0"></a><br>
+<b>35. скрыть изменения по сравнению с последним коммитом</b><br>
+<a href="https://ibb.co/KrV0DZB"><img src="https://i.ibb.co/P61mMpJ/35.png" alt="35" border="0"></a><br>
+<b>Вывод: </b><p>Git — это распределенная система контроля версий, которая позволяет отслеживать изменения в файлах и координировать работу над проектами. Основные функции Git включают создание и управление репозиториями, ведение истории изменений и совместную работу. Получили практические навыки работы в консоли, использования консольных команд. Научились работать с локальным и удалённым репозиторием.</p>
