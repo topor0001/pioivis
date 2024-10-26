@@ -13,3 +13,9 @@
 <p align="center">Системы контроля версий</p>
 <br><br><br><br><br><br><br>
 <div align="right">Подготовили:</div>
+                                                                                                    <div align="right">Студент гр.421701</div>
+<div align="right">Жданюк Егор</div>
+<div align="right">Проверил:</div>
+<div align="right">Зотов Никита Владимирович</div>
+<br><br><br>
+<p align="center">Минск 2024</p>
