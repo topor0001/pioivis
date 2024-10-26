@@ -37,5 +37,5 @@
 <a href="https://ibb.co/YyG9hSj"><img src="https://i.ibb.co/3MHXcbh/7.png" alt="7" border="0"></a><br>
 <b>8. посмотреть информацию о текущих настройках </b>
 <a href="https://ibb.co/82pWJQB"><img src="https://i.ibb.co/bLZSxG3/8.png" alt="8" border="0"></a><br>
-<b>9. убрать файл из контекста</b>
+<b>9. убрать файл из контекста</b><br>
 <a href="https://ibb.co/YhhMvhc"><img src="https://i.ibb.co/bXXZpXs/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'></a><br />
