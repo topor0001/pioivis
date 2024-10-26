@@ -32,3 +32,5 @@
 <a href="https://ibb.co/xYJ17cf"><img src="https://i.ibb.co/LrnxZqJ/5.png" alt="5" border="0"></a><br>
 <b>6. создать коммит, включающий изменения всех наблюдаемых файлов и указать для него комментарий</b>
 <a href="https://ibb.co/cybLSY4"><img src="https://i.ibb.co/CwJ23PR/6.png" alt="6" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'></a><br>
+<a href="https://ibb.co/Vp4nkJC"><img src="https://i.ibb.co/rfr8XFp/6-1.png" alt="6-1" border="0"></a><br>
+<b>7. посмотреть протокол(лог) коммитов </b>
